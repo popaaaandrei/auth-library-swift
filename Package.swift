@@ -25,7 +25,7 @@ let package = Package(
   dependencies: [
     .package(url: "https://github.com/swift-server/http", from: "0.1.0"),
     .package(url: "https://github.com/krzyzanowskim/CryptoSwift.git", from: "0.8.0"),
-    .package(url: "https://github.com/attaswift/BigInt", from: "3.0.0"),
+    .package(url: "https://github.com/popaaaandrei/BigInt", from: "3.0.4"),
     .package(url: "https://github.com/timburks/SwiftyBase64", from: "1.2.0"),
   ],
   targets: [
